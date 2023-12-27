@@ -2,4 +2,4 @@
 
 
 
-<script src="https://tryhackme.com/badge/1542553"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Mns.dev.png" alt="TryHackMe">
